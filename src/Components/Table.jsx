@@ -27,7 +27,7 @@ const DataTable = () => {
         setLoading(true);
         try {
             await new Promise(resolve => setTimeout(resolve, 2000));
-            const response = await axios.get('http://localhost:3000/cars');
+            const response = await axios.get('http://localhost:3001/cars');
             setAllData(response.data);
             setLoading(false);
         } catch (error) {

@@ -1,0 +1,51 @@
+Employee ID,First Name,Last Name,Department,Position,Hire Date,Office,Country,Employee Status,Termination Date,Reason for Leaving,Employment Type,Date of Birth,Gender,Annual Salary,Performance Reviews
+001,Kelsey,Keller,HR,Analyst,2020-04-06,JP,Japan,Active,,,Contractor,1978-05-12,Female,89638,Average
+002,Tamara,Jordan,Finance,Executive,2023-07-17,DE,Germany,Active,,,Part-time,1988-05-31,Other,97215,Excellent
+003,Kelly,Braun,Sales,Analyst,2020-09-23,HU,South Korea,Terminated,,,Contractor,1979-11-19,Female,99042,Average
+004,Wendy,Johnson,HR,Analyst,2019-12-06,KR,Japan,Terminated,,,Part-time,1961-03-08,Other,43284,Poor
+005,Daniel,Butler,HR,Manager,2022-11-19,DE,Japan,Active,,,Contractor,1959-11-21,Male,91389,Good
+006,Sandy,Wilson,Finance,Analyst,2021-08-18,JP,Hungary,Terminated,2023-03-01,,Contractor,1978-06-27,Male,39435,Excellent
+007,Janice,Johnson,Sales,Manager,2022-07-28,HU,South Korea,Terminated,,,Part-time,1984-09-09,Male,84340,Good
+008,Kenneth,Martinez,Sales,Analyst,2022-05-20,DE,South Korea,Active,,,Part-time,2001-02-01,Male,74078,Excellent
+009,Tammy,Hayes,HR,Analyst,2022-12-14,JP,Germany,Terminated,,,Part-time,1968-09-04,Other,81293,Average
+010,Andres,Bryant,Marketing,Manager,2024-03-14,JP,South Korea,Active,,Church civil word.,Full-time,1981-10-21,Female,90403,Excellent
+011,Shane,Zavala,HR,Manager,2019-08-19,JP,Germany,Terminated,,,Full-time,1998-09-17,Male,59124,Poor
+012,Andrew,Gomez,HR,Analyst,2019-09-20,DE,South Korea,Terminated,,,Full-time,1962-07-06,Female,73919,Poor
+013,Kathryn,Salinas,HR,Executive,2019-11-14,DE,Hungary,Active,,,Contractor,1958-07-21,Other,65247,Excellent
+014,Kevin,Nicholson,HR,Manager,2020-12-13,DE,South Korea,Active,,,Part-time,1960-10-11,Other,92752,Excellent
+015,Brent,Gilbert,Finance,Executive,2020-06-27,KR,Germany,Active,,,Contractor,1972-02-15,Other,86573,Excellent
+016,Colleen,Mathis,Sales,Executive,2019-11-23,DE,Germany,Active,,,Full-time,1976-01-14,Male,89101,Excellent
+017,Jennifer,Baker,Finance,Executive,2022-03-17,DE,Hungary,Terminated,,Better wife list join leader today.,Part-time,1986-11-27,Female,56646,Poor
+018,Alisha,Farrell,Finance,Manager,2019-04-19,DE,South Korea,Terminated,,,Contractor,1978-05-08,Female,53049,Good
+019,Bonnie,Yates,Finance,Executive,2024-03-20,KR,South Korea,Active,2024-03-21,Head quality degree.,Part-time,1984-10-26,Female,98385,Excellent
+020,Jeffrey,Cordova,HR,Manager,2022-09-10,DE,Hungary,Active,,,Contractor,1971-07-07,Other,70158,Excellent
+021,Cristian,Campbell,Marketing,Executive,2019-07-30,JP,South Korea,Active,,,Part-time,1999-07-28,Male,95417,Poor
+022,Jack,Petty,Sales,Analyst,2019-05-24,DE,South Korea,Active,,,Full-time,1991-03-08,Other,53289,Poor
+023,Katherine,Terry,Marketing,Analyst,2023-06-30,JP,Germany,Active,2023-06-16,,Full-time,1971-03-01,Other,39823,Average
+024,Kristine,Weaver,Finance,Manager,2023-06-10,JP,South Korea,Active,2023-07-15,,Part-time,1976-03-23,Female,90160,Excellent
+025,Timothy,Vargas,Finance,Analyst,2023-06-15,JP,South Korea,Terminated,,,Contractor,1965-10-27,Other,71975,Average
+026,Christine,Rojas,Marketing,Analyst,2022-03-09,KR,Hungary,Active,,,Full-time,1995-12-30,Female,39540,Poor
+027,Taylor,Gibson,Marketing,Executive,2020-07-19,KR,Hungary,Active,2023-08-03,,Full-time,1988-05-02,Male,46364,Poor
+028,William,Schroeder,Marketing,Manager,2024-01-25,KR,Japan,Active,,,Full-time,1999-01-02,Female,34611,Good
+029,Darren,House,Finance,Executive,2023-09-02,DE,Germany,Active,,,Part-time,1998-01-30,Male,57663,Excellent
+030,Michael,Henderson,Finance,Executive,2022-12-24,JP,South Korea,Terminated,,,Part-time,1997-09-28,Female,81991,Average
+031,Elizabeth,Park,Sales,Executive,2024-03-30,KR,South Korea,Terminated,,Hair risk sea window side stage several billion.,Contractor,1984-09-27,Other,87679,Poor
+032,Norman,Perkins,Sales,Executive,2024-01-19,KR,Japan,Active,2024-03-02,Anyone source start hotel ago rather song.,Contractor,1994-09-21,Other,60977,Poor
+033,Jennifer,Walker,Finance,Executive,2021-02-17,DE,South Korea,Active,2023-04-24,Than identify answer job cold.,Contractor,2005-03-27,Male,79115,Average
+034,Edward,Jackson,Marketing,Executive,2023-10-12,KR,Germany,Active,,,Part-time,1980-06-27,Male,90890,Good
+035,Virginia,Hawkins,Marketing,Executive,2022-01-06,DE,Japan,Active,,,Part-time,1986-12-24,Male,96387,Poor
+036,Michele,Wilkinson,Sales,Manager,2023-10-22,HU,Germany,Active,,Unit response put.,Contractor,1962-10-12,Female,48071,Excellent
+037,Melissa,Edwards,Finance,Analyst,2020-01-26,KR,Japan,Active,,,Contractor,1969-04-29,Female,89275,Poor
+038,Erika,Guerrero,Sales,Executive,2022-03-06,HU,Japan,Active,2024-02-03,Agreement order fall hot player.,Part-time,1966-07-01,Male,41938,Excellent
+039,Dean,Levy,Sales,Executive,2023-04-28,DE,Hungary,Active,2023-12-15,Order mother who.,Contractor,1971-10-11,Other,65195,Average
+040,David,Flynn,HR,Executive,2021-01-26,JP,Germany,Active,,Lead glass admit important truth along car and.,Full-time,1958-07-09,Female,34000,Excellent
+041,Evan,Davis,HR,Executive,2021-07-14,KR,South Korea,Terminated,,,Part-time,1975-12-06,Female,68304,Average
+042,Vanessa,Scott,HR,Executive,2021-08-24,DE,South Korea,Active,,,Contractor,1998-03-31,Female,99449,Excellent
+043,Jennifer,Williams,Marketing,Executive,2022-01-25,JP,Germany,Active,,Seem record Mrs day opportunity.,Part-time,1977-06-24,Male,50764,Average
+044,Benjamin,Townsend,Finance,Analyst,2024-01-11,JP,South Korea,Active,2023-03-24,,Full-time,1989-01-21,Male,68494,Excellent
+045,Roy,Lloyd,Finance,Analyst,2022-03-07,HU,South Korea,Terminated,,,Part-time,1996-02-10,Male,33373,Good
+046,Michelle,Ellis,Finance,Executive,2019-10-12,DE,Germany,Active,,,Part-time,1992-01-15,Male,42161,Excellent
+047,Scott,Valdez,Finance,Analyst,2021-01-20,JP,Japan,Active,,Friend country happen charge as.,Part-time,1967-03-17,Male,57350,Excellent
+048,Brandon,Tate,HR,Manager,2022-02-24,KR,Germany,Active,,,Part-time,1972-06-05,Other,55351,Good
+049,Jacqueline,Ruiz,Marketing,Executive,2021-03-04,KR,Japan,Active,,,Full-time,1993-02-25,Other,45305,Poor
+050,Elizabeth,Hunter,Marketing,Manager,2019-12-25,HU,South Korea,Active,,,Part-time,1978-03-07,Male,95953,Poor
